@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Jamaica Basketball Boys Varisity 1-13 Season</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Karma|Krona+One|Montserrat" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Karma" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+    /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+    .row.content {height: 1500px}
+    
+    /* Set blue background color and 100% height */
+    .sidenav {
+      background-color: #f1f1f1;
+      height: 100%;
+	  font-family: 'Karma', serif;
+	  
+    }
+    
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+	body {
+		background-color:gray;
+		font-family: 'Krona One', sans-serif;
+	}
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height: auto;} 
+    }
+  </style>
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="row content">
+    <div class="col-sm-3 sidenav">
+      <h4>Bryon's Blog</h4>
+      <ul class="nav nav-pills nav-stacked">
+        <li class="active"><a href="http://www.psal.org/profiles/team-profile.aspx#001/28517">Home</a></li>
+        <li><a href="http://www.psal.org/profiles/team-profile.aspx#001/28517"></a></li>
+        <li><a href="https://www.google.com/">Family</a></li>
+        <li><a href="https://www.yahoo.com/">Photos</a></li>
+      </ul><br>
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="Search Blog..">
+        <span class="input-group-btn">
+          <button class="btn btn-default" type="button">
+            <span class="glyphicon glyphicon-search"></span>
+          </button>
+        </span>
+      </div>
+    </div>
+
+    <div class="col-sm-9">
+      <h4><small>RECENT POSTS</small></h4>
+      <hr>
+      <h2>From 8-4 to 1-13</h2>
+      <h5><span class="glyphicon glyphicon-time"></span> Post by Bryon Belle, Sep 27, 2018.</h5>
+      <h5><span class="label label-danger"></span> <span class="label label-primary"></span></h5><br>
+      <p>Last year jamaica jv had went 8-4 on the season.This seaason was a prime example as the senior's curse. Its a saying that claims that whenever my graduation class plays with the upperclassmen we have a terrible season.</p>
+      <br><br>
+      
+      <h4><small>RECENT POSTS</small></h4>
+      <hr>
+      <h2>	Why I think we went 1-13</h2>
+      <h5><span class="glyphicon glyphicon-time"></span> Post by Bryon Belle, Sep 24, 2018.</h5>
+      <h5><span class="label label-success"></span></h5><br>
+      <p>In numerous games we have misssd oppurtunites to close out games.We never played as a team .It was always every man for themself,and we had a couple seniors that were afraid to play.</p>
+      <hr>
+
+      <h4>Leave a Comment:</h4>
+      <form role="form">
+        <div class="form-group">
+          <textarea class="form-control" rows="3" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-success">Submit</button>
+      </form>
+      <br><br>
+      
+      <p><span class="badge">2</span> Comments:</p><br>
+      
+      <div class="row">
+        <div class="col-sm-2 text-center">
+          <img src="https://vignette.wikia.nocookie.net/mariokart/images/7/7c/Mario.jpg/revision/latest/scale-to-width-down/910?cb=20130704075011" class="img-circle" height="65" width="65" alt="Avatar">
+        </div>
+        <div class="col-sm-10">
+          <h4>Dae <small>Sep 29, 2018, 9:20 PM</small></h4>
+          <p>We good bro! Dont keep your head down about it. Next year all the seniors are gonna be gone and we gonn Hve the same team from sophmore year where we went 8-4</p>
+          <br>
+        </div>
+        <div class="col-sm-2 text-center">
+          <img src="https://vignette.wikia.nocookie.net/sonic/images/d/db/Sonic_06_modern.jpg/revision/latest?cb=20140223144517" class="img-circle" height="65" width="65" alt="Avatar">
+        </div>
+        <div class="col-sm-10">
+          <h4>Coach Jones<small>Sep 25, 2018, 8:45 PM</small></h4>
+          <p>I hope you are ready for next year!</p>
+		  <h2>What jamaica students  think about jamaica basketball varsity</h2>
+		  <div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
+		    <!-- Indicators -->
+		    <ol class="carousel-indicators">
+		      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+		      <li data-target="#myCarousel" data-slide-to="1"></li>
+		      <li data-target="#myCarousel" data-slide-to="2"></li>
+		    </ol>
+
+		    <!-- Wrapper for slides -->
+		    <div class="carousel-inner" role="listbox">
+		      <div class="item active">
+		      <h4>"Next year is our only hope for a chance for jamaica to go to the playoffs.I am eager to see how  next year turns out "<br><span style="font-style:normal;">Michael Jackson, Senior, Queens Collegiate </span></h4>
+		      </div>
+		      <div class="item">
+		        <h4>" There is alot of hype going on about next year's varsity team hopefully they can get it together and make a run"<br><span style="font-style:normal;">John Decker, Sophmore, Hala </span></h4>
+		      </div>
+		      <div class="item">
+		        <h4>"I don't think anyone is more pumped for next year's varsity team. LET'S GO BEAVERS!!! "<br><span style="font-style:normal;">Chandler Bing, Junior, Jamaica Gateway To The Sceinces</span></h4>
+		      </div>
+          <br>
+          <div class="row">
+            <div class="col-sm-2 text-center">
+            </div>
+            <div class="col-xs-10">
+              <h4> <small>
+			  </small></h4>
+              <p></p>
+              <br>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer class="container-fluid">
+  <p>Footer Text</p>
+</footer>
+
+</body>
+</html>
